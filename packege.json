@@ -1,0 +1,9 @@
+{
+    "name" : "RESTAPI",
+    "version" : "1.0.0",
+    "description" : "REST API com node.js",
+    "main" : "server.js",
+    "keywords" : ["REST", "API", "RESTAPI"],
+    "author" : "Vinicius Flyssak",
+    "license" : "ISC" 
+}
